@@ -7,9 +7,6 @@ NAMA : ALI GUNAWAN | KELAS : TI.24.A3 | NIM : 312410400
 3. Menerapkan sistem routing sederhana menggunakan PHP.
 4. Membuat form input dan menyimpan data ke database menggunakan OOP.
 
-<br>
-<br>
-
 ## Struktur folder project
 ```
 lab11_php_oop/

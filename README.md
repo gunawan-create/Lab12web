@@ -66,7 +66,6 @@ CREATE TABLE users (
 ```
 <br>
 <br>
-
 Implementasikan konsep modularisasi dari praktikum sebelumnya dan terapkan konsep routing pada project yang baru.
 ### File: Implementasi (Gabungan Form dan Simpan Data)
 <img width="1388" height="2420" alt="code from dan data" src="https://github.com/user-attachments/assets/e4eafa5e-2756-4b25-a025-c06594466bb0" />
@@ -84,7 +83,6 @@ Apabila module tidak ditemukan, sistem akan menampilkan pesan kesalahan.
 
 <br>
 <br>
-
 ## Proses input data
 Form dibuat menggunakan class Form. <br>
 Contoh penggunaan:
@@ -101,7 +99,6 @@ $db->insert('users', $data);
 
 <br>
 <br>
-
 ## Hasil program - Form input user
 <img width="1919" height="1065" alt="Screenshot 2025-12-09 231953" src="https://github.com/user-attachments/assets/48bb9fc8-e7ef-4290-95c2-06d8029eb461" />
 

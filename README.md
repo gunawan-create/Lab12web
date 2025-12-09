@@ -41,6 +41,15 @@ dalam folder class/.
 ### File: form.php
 <img width="2480" height="3332" alt="code from" src="https://github.com/user-attachments/assets/f85c8573-1e06-46f0-98f5-7c701be5de32" />
 
+### File: database.php
+<img width="1726" height="3522" alt="code database" src="https://github.com/user-attachments/assets/7753c7e2-8bfd-433f-afaa-ee6822d2502a" />
+
+### Langkah 2
+Konfigurasi Dasar
+
+### File: config.php Sesuaikan dengan database anda
+<img width="788" height="596" alt="code config" src="https://github.com/user-attachments/assets/4294e345-9257-4b26-8166-81434481451d" />
+
 Nama database harus sesuai dengan yang dibuat di phpMyAdmin. <br>
 Kemudian membuat tabel:
 ```sql
@@ -58,17 +67,7 @@ CREATE TABLE users (
 <br>
 <br>
 
-### File: database.php
-<img width="1726" height="3522" alt="code database" src="https://github.com/user-attachments/assets/7753c7e2-8bfd-433f-afaa-ee6822d2502a" />
-
-### Langkah 2
-Konfigurasi Dasar
-
-### File: config.php Sesuaikan dengan database anda
-<img width="788" height="596" alt="code config" src="https://github.com/user-attachments/assets/4294e345-9257-4b26-8166-81434481451d" />
-
 Implementasikan konsep modularisasi dari praktikum sebelumnya dan terapkan konsep routing pada project yang baru.
-
 ### File: Implementasi (Gabungan Form dan Simpan Data)
 <img width="1388" height="2420" alt="code from dan data" src="https://github.com/user-attachments/assets/e4eafa5e-2756-4b25-a025-c06594466bb0" />
 
